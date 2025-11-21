@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Nguyễn Văn A",
+    "phone": "0123456789",
+    "address": "Hà Nội, Quận Hoàn Kiếm, Phường Hàng Bạc"
+  },
+  {
+    "id": "2",
+    "name": "Trần Thị B",
+    "phone": "0987654321",
+    "address": "TP.HCM, Quận 1, Phường Bến Nghé"
+  },
+  {
+    "id": "ec135b74-d0f7-4126-9aa7-a53e574366cd",
+    "name": "bsnsa",
+    "phone": "122311231",
+    "address": "àasdsa"
+  }
+]
