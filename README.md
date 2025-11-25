@@ -1,11 +1,14 @@
 📌 Tên Đề Tài
 XÂY DỰNG WEBSITE SÀN THƯƠNG MẠI ĐIỆN TỬ TÍCH HỢP CHATBOT AI
+
 📝 Ghi chú đề tài
 Hiện tại nhóm đã hoàn thành phần lớn các chức năng giao diện và database. Tuy nhiên, nhóm vẫn còn một số phương thức backend chưa hoàn thiện, đặc biệt là các API tương tác với các controller. Do thời gian triển khai có hạn, nhóm xin phép thầy/cô cho nhóm hoàn thiện đầy đủ sản phẩm tại buổi báo cáo với Hội đồng. Nhóm xin chân thành cảm ơn thầy/cô và Hội đồng!
 🧭 Giới thiệu đề tài
+
 Website sàn thương mại điện tử tích hợp Chatbot AI là nền tảng cho phép người dùng mua sắm trực tuyến hiện đại, tự động hóa và thông minh. Hệ thống hỗ trợ nhiều vai trò như khách hàng, đại lý, quản trị viên và nhân viên, đồng thời ứng dụng AI vào chăm sóc khách hàng, phân tích dữ liệu và tối ưu trải nghiệm người dùng.
 Website đảm nhiệm các tác vụ như tìm kiếm, đặt hàng, quản lý bán hàng, quản lý kho, thống kê hoạt động và đặc biệt là chatbot AI hỗ trợ 24/7.
 Các tính năng nổi bật:
+
 Tìm kiếm, xem chi tiết và đặt mua sản phẩm nhanh chóng
 Quản lý giỏ hàng, đơn hàng, lịch sử mua sắm
 Hệ thống đăng ký – đăng nhập theo nhiều vai trò (khách hàng, đại lý, nhân viên, quản trị viên)
@@ -50,6 +53,8 @@ DB_PASSWORD=
  Quản lý nhân viên và phân quyền
  Thống kê số liệu theo ngày/tháng/năm
  Chatbot AI trả lời tự động
+
+
 👥 Tài khoản mẫu 
 Quản trị viên
 Email: nguyenvana@gmail.com
