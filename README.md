@@ -30,6 +30,7 @@ Web Server: XAMPP
 AI Chatbot: OpenAI API
 Tool hỗ trợ: Draw.io, Figma, StarUML
 🚀 Hướng dẫn cài đặt & chạy hệ thống
+
 1. Cài đặt Backend Laravel
 composer install
 php artisan migrate
@@ -37,7 +38,9 @@ php artisan db:seed
 php artisan serve
 Hệ thống backend chạy tại:
 👉 http://localhost:8000
-2. Cấu hình Database
+
+3. Cấu hình Database
+
 Mở file .env
 Cập nhật thông tin:
 DB_DATABASE=khoa_18
